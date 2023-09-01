@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 仿网易云音乐banner圆点指示器 -->
+    <declare-styleable name="CircleIndicatorLayout">
+        <attr name="indicator_min_circle_size" format="dimension" />
+        <attr name="indicator_middle_circle_size" format="dimension" />
+        <attr name="indicator_max_circle_size" format="dimension" />
+        <attr name="indicator_circle_space" format="dimension" />
+        <attr name="indicator_circle_background" format="reference" />
+    </declare-styleable>
+</resources>
